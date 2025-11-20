@@ -3,8 +3,12 @@ dist
 *.pyc
 *.egg-info
 *.ipynb_checkpoints
-venv
+scgenome_env
 sourceme
 build
 dist
 __pycache__/
+.DS_Store
+
+# Large Data files
+notebooks/zenodo_data/
